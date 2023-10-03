@@ -1,7 +1,7 @@
 # Challenge-Conversor-De-Moedas/Tempo-Alura-ProgramaONE
 
 <h1>DESCRIÇÃO</h1>
-<p>Neste Challenge foi solicitado a criação de um conversor de moeda utilizando a linguagem Java. As características solicitadas são as seguintes:</p>
+<p>Neste Challenge foi solicitado a criação de um conversor de moeda utilizando a linguagem Java, as características solicitadas são as seguintes:</p>
 
 <p>O conversor de moeda deverá:</p>
 <p>- Converter de Reais a Dólar</p>
@@ -10,9 +10,21 @@
 <p>- Converter de Reais a Peso argentino</p>
 <p>- Converter de Reais a Peso Chileno</p>
 
-<p>Lembrando que deve ser possível também converter de forma inversa ou seja:</p>
-<p></p> - Converter de Dólar a Reais
+<p>É possível também converter de forma inversa, ou seja:</p>
+<p>- Converter de Dólar a Reais</p>
 <p>- Converter de Euro a Reais</p>        
 <p>- Converter de Libras Esterlinas a Reais</p>        
 <p>- Converter de Peso argentino a  Reais</p>        
-<p>- Converter de Peso Chileno a Reais</p></p>        
+<p>- Converter de Peso Chileno a Reais</p></p>  
+
+<h2>EXTRAS</h2>
+<p>Como Extra desenvolvi um Conversor de Tempo que converte nos seguintes critérios:</p>
+<p>Ano em Mês</p>
+<p>Ano em Horas</p>
+<p>Anos em Minutos</p>
+<p>Mês em Horas</p>
+<p>Mês em Minutos</p>
+<p>Horas em Minutos</p>
+
+<h3>Challenge em funcionamento</h3>
+<p>Vídeo de como o Conversor funciona</p>

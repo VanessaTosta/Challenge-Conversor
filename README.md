@@ -33,7 +33,7 @@
 https://github.com/VanessaTosta/Challenge-Conversor/assets/132398142/6b5ab12d-322a-4868-85bd-9bf28312bdf9
 
 <h3>REDES SOCIAIS</h3>
- <p>Linkedin<a href=https://www.linkedin.com/in/vanessa-tosta-/></a></p>
+ <p>Linkedin<a href= "https://www.linkedin.com/in/vanessa-tosta-/"></a></p>
 
 
 
